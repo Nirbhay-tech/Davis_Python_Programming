@@ -5,7 +5,7 @@ f=open("firstfile3.txt","w")
 sentences=[]
 #writing 20 sentences into the file
 print("Write any 20 sentences : ")
-for x in range(20):
+for x in range(6):
     #input data from the user
     sentence=input()
     #inserting the sentences into the list
