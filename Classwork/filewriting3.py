@@ -9,10 +9,10 @@ for x in range(20):
     #input data from the user
     sentence=input()
     #inserting the sentences into the list
-    sentences.append(sentence)
+    sentences.append(sentence+"\n")
     print("--------------------------")
 #------------------------------------------------
 #writing data into the file
-f.writelines(sentences,"\n")
+f.writelines(sentences)
 #closing the file
 f.close()
