@@ -1,3 +1,3 @@
 hi am vowel.txt
-i contains a string with vowels
+i contain a string with vowels
 i am used to find vowels present or not
